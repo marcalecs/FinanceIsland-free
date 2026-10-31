@@ -1,0 +1,17 @@
+FinanceIsland
+Copyright (c) 2026 marcalecs. All rights reserved.
+
+This software and its source code, design, artwork, documentation and associated files
+(the "Software") are the exclusive property of marcalecs.
+
+No licence is granted. Without the prior written permission of marcalecs you may not copy,
+modify, merge, publish, distribute, sublicense, sell, rent, reverse engineer or create
+derivative works of the Software, in whole or in part, by any means.
+
+Third-party components keep their own licences:
+  - VADER sentiment lexicon (MIT, C.J. Hutto), Resources/VADER-LICENSE.txt
+  - market data from the services listed in the in-app User Agreement, under their own terms
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE
+OR ITS USE. NOTHING IN THE SOFTWARE IS FINANCIAL ADVICE.
